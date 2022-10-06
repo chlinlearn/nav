@@ -14,15 +14,17 @@
     <div id="app">加载中，请稍后...</div>
     <script>
         window.$docsify = {
-            // logo: '/_media/logo.svg',
+            logo: '/_media/logo.svg height=50px',
             name: 'chlinlearn',
             repo: 'https://github.com/chlinlearn/nav',
             loadSidebar: true,
             subMaxLevel: 2,
             loadNavbar: true,
             auto2top: true,
-            themeColor: '#8a31ff',
-            search: "auto", // default
+            themeColor: '#5038db',
+            search: {
+                placeholder: '🔍 搜索',
+            }, // default
             count: {
                 countable: true,
                 fontsize: '0.9em',
@@ -44,6 +46,7 @@
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
     <!--     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script> -->
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 
 </html>
