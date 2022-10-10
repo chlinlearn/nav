@@ -22,7 +22,6 @@
             loadNavbar: true,
             auto2top: true,
             themeColor: '#5038db',
-            ga: 'G-6L9XK41XV1',
             search: {
                 placeholder: '🔍 搜索',
             }, // default
@@ -49,7 +48,17 @@
     <!--     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script> -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
     <!-- 谷歌统计 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6L9XK41XV1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-6L9XK41XV1');
+    </script>
 </body>
 
 </html>
