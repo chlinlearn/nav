@@ -7,10 +7,12 @@
 - [高德开发平台](https://lbs.amap.com/api/)
 - [百度地图开发平台](https://lbsyun.baidu.com/)
 - [极速数据](https://www.jisuapi.com/)
-- [UomgAPI](https://api.uomg.com/)
+- [UomgAPI](https://api.uomg.com/)  
 - [free-api](https://www.free-api.com/)
 - [RollToolsApi](https://www.mxnzp.com/doc/list)
 - [brightdata--IP代理池](https://brightdata.com/)
+- [pirateweather--免费的天气 API，每月可调用2万次](http://pirateweather.net/en/latest/)
+- [apivault--网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API](https://apivault.dev/)
 
 #### Json数据
 
