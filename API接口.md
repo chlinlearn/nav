@@ -24,4 +24,5 @@
 
 #### 数据资源
 - [中国高等院校三千所--这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱](https://laosheng.top/fuwu/yuanxiao)
+- [opendatalab--为大模型提供高质量的开放数据集](https://opendatalab.com/)
 
