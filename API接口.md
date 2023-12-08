@@ -15,6 +15,8 @@
 - [apivault--网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API](https://apivault.dev/)
 - [imgrender--图片生成海报](https://www.imgrender.net/)
 - [今日诗词](https://www.jinrishici.com/)
+- [public-apis](https://github.com/public-apis/public-apis)
+- [ip.guide](https://ip.guide/)
 
 #### Json数据
 
