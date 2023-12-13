@@ -17,6 +17,8 @@
 - [今日诗词](https://www.jinrishici.com/)
 - [public-apis](https://github.com/public-apis/public-apis)
 - [ip.guide](https://ip.guide/)
+- [Google获取网站favicon接口](https://www.google.com/s2/favicons?domain=)
+- [Favicon Finder获取网站favicon接口](https://besticon-demo.herokuapp.com/icon?url=google.com&size=80)
 
 #### Json数据
 
