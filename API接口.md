@@ -19,6 +19,7 @@
 - [ip.guide](https://ip.guide/)
 - [Google获取网站favicon接口](https://www.google.com/s2/favicons?domain=)
 - [Favicon Finder获取网站favicon接口](https://besticon-demo.herokuapp.com/icon?url=google.com&size=80)
+- [ip解析接口](https://api.songzixian.com/api-detail/1)
 
 #### Json数据
 
