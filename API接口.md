@@ -17,6 +17,8 @@
 - [今日诗词](https://www.jinrishici.com/)
 - [public-apis](https://github.com/public-apis/public-apis)
 - [ip.guide](https://ip.guide/)
+- [ip-api](https://ip-api.com/docs/api:json)
+- [ip解析接口](https://api.songzixian.com/api-detail/1)
 - [Google获取网站favicon接口](https://www.google.com/s2/favicons?domain=)
 - [Favicon Finder获取网站favicon接口](https://besticon-demo.herokuapp.com/icon?url=google.com&size=80)
 - [Favicon Grabber--一个开源的 Favicon 下载网站，可以一键抓取下载任意网站的 favicon](https://favicongrabber.com/)
@@ -24,7 +26,6 @@
 - [谷歌获取网站icon的接口](https://www.google.com/s2/favicons?domain=youtube.com)
 - [gstatic--Favicon在线获取接口，谷歌CDN](https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=64&url=https://firefly.adobe.com/)
 - [toolnb--网页meta信息检测工具](https://www.toolnb.com/tools/getmeta.html)
-- [ip解析接口](https://api.songzixian.com/api-detail/1)
 - [kit9--api聚合网站，包含TDK网页信息查询等](https://api.kit9.cn/)
 - [图酷开放平台--api聚合网站](https://open.logoi.cn/doc/title.html)
 
