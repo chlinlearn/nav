@@ -19,6 +19,7 @@
 - [ip.guide](https://ip.guide/)
 - [ip-api](https://ip-api.com/docs/api:json)
 - [ip解析接口](https://api.songzixian.com/api-detail/1)
+- [各种免费的IP查询API](https://github.com/ihmily/ip-info-api)
 - [Google获取网站favicon接口](https://www.google.com/s2/favicons?domain=)
 - [Favicon Finder获取网站favicon接口](https://besticon-demo.herokuapp.com/icon?url=google.com&size=80)
 - [Favicon Grabber--一个开源的 Favicon 下载网站，可以一键抓取下载任意网站的 favicon](https://favicongrabber.com/)
