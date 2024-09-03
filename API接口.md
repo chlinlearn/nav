@@ -29,6 +29,7 @@
 - [toolnb--网页meta信息检测工具](https://www.toolnb.com/tools/getmeta.html)
 - [kit9--api聚合网站，包含TDK网页信息查询等](https://api.kit9.cn/)
 - [图酷开放平台--api聚合网站](https://open.logoi.cn/doc/title.html)
+- [免费WebAPI接口--热榜数据、工具等](https://api.vvhan.com/)
 
 #### Json数据
 
